@@ -87,7 +87,7 @@ background-image:url(../img/apache.png);
 }
 
 .anima1 {
-	background-image:url(../img/amigo.png);
+	background-image:url(../img/apache.png);
 	animation:play .1s steps(2) infinite;
 }
 
